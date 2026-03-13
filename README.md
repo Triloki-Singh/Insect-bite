@@ -1,12 +1,12 @@
-````Features
-
+Features
+```
  Detect insect type based on symptoms
  Display insect information (name, symptoms, treatment)
  History of previous checks
  Fast backend API using Node.js and Express
  MongoDB database for insect data storage
  Responsive frontend using React
-`````
+````
 Tech Stack
 Frontend
 
