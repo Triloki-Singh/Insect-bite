@@ -7,42 +7,51 @@
  MongoDB database for insect data storage
  Responsive frontend using React
 
-       Tech Stack
-    Frontend
-React.js
-Tailwind CSS
-Axios
-React Router
+Tech Stack
+Frontend
 
-    Backend
-Node.js
-Express.js
-Database
-MongoDB
-Mongoose
+    React.js
+    Tailwind CSS
+    Axios
+    React Router
 
-    Clone the repository
+Backend
+
+    Node.js
+    Express.js
+    Database
+    MongoDB
+    Mongoose
+
+Clone the repository
+
     git clone https://github.com/Triloki-Singh/Insect-bite.git
 
-    Navigate to project folder
-cd insect-bite-detection
+Navigate to project folder
 
-    Install backend dependencies
-cd backend
-npm install
+    cd insect-bite-detection
 
-    Install frontend dependencies
-cd frontend
-npm install
+Install backend dependencies
 
-        Run the Application
-    Start Backend
-cd backend
-nodemon server.js
+    cd backend
+    npm install
 
-    Start Frontend
-cd frontend
-npm run dev
+Install frontend dependencies
+
+    cd frontend
+    npm install
+
+Run the Application
+
+Start Backend
+
+    cd backend
+    nodemon server.js
+
+Start Frontend
+
+    cd frontend
+    npm run dev
 
     ~Author
 Triloki Singh
