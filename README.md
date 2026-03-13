@@ -1,4 +1,4 @@
-    Features
+````Features
 
  Detect insect type based on symptoms
  Display insect information (name, symptoms, treatment)
@@ -6,7 +6,7 @@
  Fast backend API using Node.js and Express
  MongoDB database for insect data storage
  Responsive frontend using React
-
+`````
 Tech Stack
 Frontend
 
@@ -52,6 +52,6 @@ Start Frontend
 
     cd frontend
     npm run dev
-
-    ~Author
+    
+~Author
 Triloki Singh
